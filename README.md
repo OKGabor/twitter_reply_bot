@@ -40,4 +40,4 @@ Run the script in a Google Colab notebook. The bot will:
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Disclaimer
-This bot is for educational purposes. Ensure you have the right to promote the mentioned website and that your use complies with all relevant terms of service and laws.
+This bot is for educational purposes. Ensure that your use complies with all relevant terms of service and laws.
